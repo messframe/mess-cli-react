@@ -12,6 +12,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messframe/mess-cli-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/messframe/mess-cli-react/issues"
+  },
+  "homepage": "https://github.com/messframe/mess-cli-react#readme",
   "dependencies": {
     "antd": "^3.20.7",
     "babel-plugin-import": "^1.12.0",
