@@ -10,7 +10,6 @@ const reactLifecycles = singleSpaReact({
   loadRootComponent: () => import('./root.component.js').then(property('default')),
   domElementGetter,
 })
-
 export const bootstrap = [
   () => {
     return setPublicPath()
